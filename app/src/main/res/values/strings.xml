@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MY QUIZ APP</string>
+    <string name="activity_question_model">QUESTIONS</string>
+</resources>
